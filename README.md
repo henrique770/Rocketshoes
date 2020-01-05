@@ -11,10 +11,10 @@ In the project directory, you can run:
 ### `yarn install` 
 for install the dependencies
 
-### `install json-server`
+#### install json-server
 https://github.com/typicode/json-server
 
-### `Run the server`
+#### run the server
 `json-server server.json -p 3333`
 
 ### `yarn start`
